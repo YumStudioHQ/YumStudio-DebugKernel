@@ -4,3 +4,5 @@
 obj/
 out/
 .vscode/
+__pycache__/
+godot/
